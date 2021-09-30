@@ -1,0 +1,17 @@
+.film-week {
+  padding: 60px 0;
+}
+
+.film-week__container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  gap: 30px;
+}
+
+.film-week__poster {
+  width: 100%;
+  margin-bottom: 25px;
+}
